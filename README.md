@@ -1,2 +1,9 @@
 # A2Z_DSA
 codes and learnings from A2Z_DSA by TUF. feel free to contribute.
+
+## Daily logs:
+### D17: 
+1. 2Sum(Return the indices(0 - indexed) of two elements in nums such that they add up to target.)
+2. Sort an array of 0's 1's and 2's.
+
+### D18:
