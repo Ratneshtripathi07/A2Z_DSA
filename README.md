@@ -14,3 +14,7 @@ codes and learnings from A2Z_DSA by TUF. feel free to contribute.
 also, solved problems from leetcode.
 
 ### D19:
+1. Rearrange the array in alternating positive and negative items
+2. Next Permutation
+3. Leaders in an Array problem
+4. Longest Consecutive Sequence in an Array
