@@ -24,3 +24,9 @@ also, solved problems from leetcode.
 2. Rotate Matrix by 90 degrees
 3. Print the matrix in spiral manner
 4. Count subarrays with given sum
+
+----------------------------------------
+
+2025-07-05 ✅
+
+----------------------------------------
