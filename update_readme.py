@@ -2,7 +2,7 @@ import datetime
 import os
 
 # Today's date
-today = datetime.date.today().strftime("%Y-%m-%d")
+today = datetime.date.today().strftime("%d-%m-%Y")
 entry = f"----------------------------------------\n\n{today} ✅\n\n----------------------------------------"
 
 # Path to README.md
