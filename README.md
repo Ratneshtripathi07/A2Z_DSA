@@ -72,3 +72,5 @@ also, solved problems from leetcode.
 12-07-2025 ✅
 
 ----------------------------------------
+
+update: completed till sorting. will be starting arrays.
