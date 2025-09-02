@@ -1,7 +1,0 @@
-Print numbers from 1 to N using recursion: Write a recursive function to print numbers from 1 to a given number N.
-Print numbers from N to 1 using recursion: Write a recursive function to print numbers from a given number N down to 1.
-Calculate the sum of the first N numbers: Find the sum of the first N natural numbers.
-Calculate the factorial of N: Write a function to calculate the factorial of a given number N.
-Reverse an array: Write a function to reverse the elements of a given array.
-Check if a string is a palindrome: Determine if a given string reads the same backward as forward.
-Calculate the Fibonacci number: Write a function to calculate the nth Fibonacci number, where each number is the sum of the two preceding ones (1, 1, 2, 3, 5, 8, ...).
